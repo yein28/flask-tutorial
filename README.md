@@ -1,5 +1,7 @@
 # Flaskr
 
+## http://flask.pocoo.org/docs/1.0/tutorial/
+
 https://tech.ssut.me/2017/03/24/python-functions-are-first-class
 
 -> Python's Functions Are First-Class
